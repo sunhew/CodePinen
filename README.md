@@ -1,7 +1,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunhewhttps%3A%2F%2Fgithub.com%2Fsunhew&count_bg=%2379C83D&title_bg=%23555555&icon=mongodb.svg&icon_color=%23B5FAFF&title=Welcome+to+my+github&edge_flat=false"/></a>
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&text=%20CodePin%20&height=300&fontSize=100&animation=blinking&fontAlign=50)
-[Language change: Korean](https://github.com/sunhew/CodePinen/)
+[Language change: Korean](https://github.com/sunhew/CodePin)
 
 # CodePin
 <!-- () 사이에 본인 닷홈 주소 넣기 -->
